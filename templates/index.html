@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ML Prediction App</title>
+</head>
+<body>
+
+<h2>Employee Prediction</h2>
+
+<form action="/predict" method="post">
+    Age: <input type="number" name="Age" required><br><br>
+    Salary: <input type="number" name="Salary" required><br><br>
+
+    Department:
+    <select name="Department">
+        <option>IT</option>
+        <option>HR</option>
+        <option>Finance</option>
+    </select><br><br>
+
+    Experience: <input type="number" name="Experience" required><br><br>
+
+    <input type="submit" value="Predict">
+</form>
+
+<h3>{{ prediction_text }}</h3>
+
+</body>
+</html>

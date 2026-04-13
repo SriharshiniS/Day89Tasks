@@ -1,0 +1,10 @@
+2026-04-13 13:09:55,626 - NumExpr defaulting to 12 threads.
+2026-04-13 13:09:56,094 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-13 13:09:56,095 - [33mPress CTRL+C to quit[0m
+2026-04-13 13:09:56,120 -  * Restarting with watchdog (windowsapi)
+2026-04-13 13:09:57,846 - NumExpr defaulting to 12 threads.
+2026-04-13 13:09:58,292 -  * Debugger is active!
+2026-04-13 13:09:58,307 -  * Debugger PIN: 417-126-633
+2026-04-13 13:10:43,626 - 127.0.0.1 - - [13/Apr/2026 13:10:43] "GET / HTTP/1.1" 200 -
+2026-04-13 13:10:43,724 - 127.0.0.1 - - [13/Apr/2026 13:10:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
