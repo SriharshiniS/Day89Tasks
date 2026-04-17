@@ -259,14 +259,6 @@ python retrain.py
 
 # 🔢 TASK 20: Documentation
 
-## ✅ Include
-
-* Problem statement
-* Dataset
-* Model
-* Results
-* Deployment
-
 ---
 
 # ▶️ HOW TO RUN FULL PROJECT
